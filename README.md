@@ -6,3 +6,6 @@ Image Credits:
 Cookies - https://www.freepik.com/free-ai-image/delicious-cookies-arrangement_60050253.htm#query=cookies&position=9&from_view=keyword&track=ais_hybrid&uuid=5be69b8a-8cc3-468b-adaa-d5824fce32ef 
 Brownies - https://www.freepik.com/free-ai-image/indulgent-homemade-chocolate-brownie-fresh-sweet-generated-by-ai_41280308.htm 
 Cupcakes - https://www.istockphoto.com/photo/vanilla-cupcakes-with-pink-yellow-and-blue-icing-isolated-gm177047298-19509414 
+
+UPDATE:
+Hey everyone! I'm back to add some CSS to make this recipes site a little more interesting! I just got through the very basics of CSS, learning about what it is, selector types, some element properties, and just now, the cascade. I will be implementing what I learned to create a more enjoyable visual experience, so I hope you all like it to some degree. With that said, thank you for viewing this repo!
