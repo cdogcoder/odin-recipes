@@ -23,3 +23,25 @@
 #home a {
     text-decoration: none;
 }
+
+#cookies {
+    padding: 16px;
+    background-color: rgb(255, 188, 125);
+}
+
+#cookies h1, #cookies h2, #cookies p {
+    text-align: center;
+}
+
+#cookies a {
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+#cookies img {
+    display: block;
+    margin: auto;
+}
