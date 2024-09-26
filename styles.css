@@ -41,11 +41,16 @@
     color: rgb(255, 139, 44);
 }
 
-#cookies h1, #cookies h2, #cookies p, #brownies h1, #brownies h2, #brownies p {
+#cupcakes {
+    padding: 16px;
+    background-color: aqua;
+}
+
+#cookies h1, #cookies h2, #cookies p, #brownies h1, #brownies h2, #brownies p, #cupcakes h1, #cupcakes h2, #cupcakes p {
     text-align: center;
 }
 
-#cookies a, #brownies a {
+#cookies a, #brownies a, #cupcakes a {
     display: block;
     width: 150px;
     margin: 0 auto;
@@ -53,7 +58,7 @@
 }
 
 
-#cookies img, #brownies img {
+#cookies img, #brownies img, #cupcakes img {
     display: block;
     margin: auto;
 }
