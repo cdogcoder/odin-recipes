@@ -26,13 +26,15 @@
     text-decoration: none;
 }
 
-#cookies {
+#cookies, #brownies, #cupcakes {
     padding: 16px;
+}
+
+#cookies {
     background-color: rgb(255, 188, 125);
 }
 
 #brownies {
-    padding: 16px;
     background-color: rgb(99, 49, 9);
     color: white;
 }
@@ -42,7 +44,6 @@
 }
 
 #cupcakes {
-    padding: 16px;
     background-color: aqua;
 }
 
@@ -50,15 +51,14 @@
     text-align: center;
 }
 
-#cookies a, #brownies a, #cupcakes a {
+#cookies a, #brownies a, #cupcakes a, #cookies img, #brownies img, #cupcakes img {
     display: block;
-    width: 150px;
     margin: 0 auto;
+}
+
+#cookies a, #brownies a, #cupcakes a {
+    width: 150px;
     text-align: center;
 }
 
 
-#cookies img, #brownies img, #cupcakes img {
-    display: block;
-    margin: auto;
-}
