@@ -12,7 +12,9 @@
 
 #home ul {
     margin: 0 auto;
+    padding: 0;
     width: 100px;
+    text-align: center;
 }
 
 #home li {
