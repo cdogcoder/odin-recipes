@@ -9,3 +9,6 @@ Cupcakes - https://www.istockphoto.com/photo/vanilla-cupcakes-with-pink-yellow-a
 
 UPDATE:
 Hey everyone! I'm back to add some CSS to make this recipes site a little more interesting! I just got through the very basics of CSS, learning about what it is, selector types, some element properties, and just now, the cascade. I will be implementing what I learned to create a more enjoyable visual experience, so I hope you all like it to some degree. With that said, thank you for viewing this repo!
+
+SECOND UPDATE:
+Hey y'all! I'm back to add some more CSS to really make this recipes site pop! I just finished the second bit of the CSS lessons in Foundations, learning about the cascade, DevTools, the box model, and all about block and inline elements. I will be applying what I learned to create a nicer layout for this project, so I hope you all appreciate it. With that said, thank you for stopping by!
